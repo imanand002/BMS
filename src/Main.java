@@ -20,7 +20,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("=========================================");
-        System.out.println("   🏦 WELCOME TO APEXTRUST BANK CLI 🏦   ");
+        System.out.println("   WELCOME TO Rahul Modi Cooperative BANK CLI   ");
         System.out.println("=========================================");
 
         while (true) {
@@ -47,7 +47,7 @@ public class Main {
                 System.out.println("Goodbye!");
                 System.exit(0);
             }
-            default -> System.out.println("❌ Invalid option. Try again.");
+            default -> System.out.println("Invalid option. Try again.");
         }
     }
 
