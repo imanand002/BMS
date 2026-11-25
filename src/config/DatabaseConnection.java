@@ -28,3 +28,5 @@ public class DatabaseConnection {
     }
 }
 
+// command to interact with PostgreSQL through terminal
+// docker exec -it <container_name_or_id> psql -U bank_admin -d bank_system
